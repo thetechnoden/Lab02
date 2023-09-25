@@ -3,23 +3,8 @@
     static void Main(string[] args)
     {
         // Приклад використання класу Address
-        Address address = new Address
-        {
-            Index = "12345",
-            Country = "Україна",
-            City = "Київ",
-            Street = "Вулиця Лісова",
-            House = "3",
-            Apartment = "27"
-        };
-
-        Console.WriteLine("Поштова адреса:");
-        Console.WriteLine($"Індекс: {address.Index}");
-        Console.WriteLine($"Країна: {address.Country}");
-        Console.WriteLine($"Місто: {address.City}");
-        Console.WriteLine($"Вулиця: {address.Street}");
-        Console.WriteLine($"Будинок: {address.House}");
-        Console.WriteLine($"Квартира: {address.Apartment}");
+        Address address = new Address("12345", "Україна", "Київ", "Вулиця Хрещатик", "1", "10");
+        address.Display();
 
         // Приклад використання класу Converter
         Converter converter = new Converter(28.5, 33.0, 7.0);
@@ -38,13 +23,13 @@
         Console.WriteLine($"Сума в UAH з USD: {convertedUAH}");
 
         // Приклад використання класу Employee
-        Employee employee = new Employee("Олегович", "Олег");
+        Employee employee = new Employee("Петров", "Іван");
         employee.DisplayInfo();
-        double salary = employee.CalculateSalary("Менеджер", 6);
-        Console.WriteLine($"Зарплатня: {salary} грн");
+        double salary = employee.CalculateSalary(Position.Менеджер, 6); 
+        Console.WriteLine($"Зарплата: {salary} грн");
 
         // Приклад використання класу User
-        User user = new User("user123", "Олег", "Олегович", 30);
+        User user = new User("user123", "Іван", "Петров", 30);
         user.DisplayInfo();
 
         Console.ReadLine();

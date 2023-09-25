@@ -1,4 +1,11 @@
-﻿class Employee
+﻿enum Position
+{
+    Менеджер,
+    Розробник,
+    Праграміст
+}
+
+class Employee
 {
     private string lastName;
     private string firstName;
@@ -9,29 +16,32 @@
         this.firstName = firstName;
     }
 
-    public double CalculateSalary(string position, int experience)
+    public double CalculateSalary(Position position, int experience)
     {
         double baseSalary = 0;
-
+        
         switch (position)
         {
-            case "Менеджер":
+            case Position.Менеджер:
                 baseSalary = 30000;
                 break;
-            case "Розробник":
+            case Position.Розробник:
                 baseSalary = 40000;
                 break;
+            case Position.Праграміст:
+                baseSalary = 35000;
+                break;              
         }
 
         double experienceBonus = 0;
-
+ 
         if (experience >= 5)
         {
             experienceBonus = 5000;
         }
 
         double salary = baseSalary + experienceBonus;
-        double tax = 0.15 * salary; // 15% податок
+        double tax = 0.15 * salary; 
         return salary - tax;
     }
 

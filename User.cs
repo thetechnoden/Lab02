@@ -1,9 +1,9 @@
 ﻿class User
 {
-    public string Login { get; set; }
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
-    public int Age { get; set; }
+    public string Login { get; }
+    public string FirstName { get; }
+    public string LastName { get; }
+    public int Age { get; }
     public DateTime RegistrationDate { get; }
 
     public User(string login, string firstName, string lastName, int age)
