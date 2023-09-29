@@ -2,10 +2,9 @@
 {
     static void Main(string[] args)
     {
-        // Приклад використання класу Employee
-        Employee employee = new Employee("Петров", "Іван");
+        Employee employee = new Employee("Селик", "Артем");
         employee.DisplayInfo();
-        double salary = employee.CalculateSalary(Position.Manager, 6);
+        double salary = employee.CalculateSalary(Position.Manager, 8);
         Console.WriteLine($"Зарплата: {salary} грн");
 
         Console.ReadLine();
