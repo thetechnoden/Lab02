@@ -17,5 +17,7 @@
 
         double convertedUAH = converter.ConvertFromUSD(50);
         Console.WriteLine($"Сума в UAH з USD: {convertedUAH}");
+
+        Console.ReadLine();
     }
 }

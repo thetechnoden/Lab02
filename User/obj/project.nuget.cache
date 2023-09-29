@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wuVPWNrVn4dcwfBtD3jbKnRGDiu4rFZ7wGWtJgLQDWALJ4T5C1FdCSK8MQh3UwFaa3zROiN2a7R8bbJK/t1EbQ==",
+  "dgSpecHash": "QBY+RIzwOZtE5vWjD2HUq5louCUK2SzNRMFrWk5wxVqSMv1JIEl+dh2RHOxM1bho9aaK7Wq1wBSemqhs6WMVHA==",
   "success": true,
-  "projectFilePath": "D:\\Uni\\Lectures\\Lecture02\\User\\4. User.csproj",
+  "projectFilePath": "D:\\Uni\\Lectures\\Lecture02\\User\\User.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

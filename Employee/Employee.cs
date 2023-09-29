@@ -1,8 +1,8 @@
 ﻿enum Position
 {
-    Менеджер,
-    Розробник,
-    Праграміст
+    Manager,
+    Developer,
+    Coder
 }
 
 class Employee
@@ -22,13 +22,13 @@ class Employee
         
         switch (position)
         {
-            case Position.Менеджер:
+            case Position.Manager:
                 baseSalary = 30000;
                 break;
-            case Position.Розробник:
+            case Position.Developer:
                 baseSalary = 40000;
                 break;
-            case Position.Праграміст:
+            case Position.Coder:
                 baseSalary = 35000;
                 break;              
         }

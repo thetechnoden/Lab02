@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Uni\\Lectures\\Lecture02\\Address\\1. Address.csproj",
-      "projectName": "1. Address",
-      "projectPath": "D:\\Uni\\Lectures\\Lecture02\\Address\\1. Address.csproj",
+      "projectUniqueName": "D:\\Uni\\Lectures\\Lecture02\\Address\\Address.csproj",
+      "projectName": "Address",
+      "projectPath": "D:\\Uni\\Lectures\\Lecture02\\Address\\Address.csproj",
       "packagesPath": "C:\\Users\\Razya_\\.nuget\\packages\\",
       "outputPath": "D:\\Uni\\Lectures\\Lecture02\\Address\\obj\\",
       "projectStyle": "PackageReference",

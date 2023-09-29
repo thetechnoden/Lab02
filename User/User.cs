@@ -1,18 +1,47 @@
 ﻿class User
 {
-    public string Login { get; }
-    public string FirstName { get; }
-    public string LastName { get; }
-    public int Age { get; }
-    public DateTime RegistrationDate { get; }
+    private string login;
+    private string firstName;
+    private string lastName;
+    private int age;
+    private DateTime registrationDate;
+
+    public string Login
+    {
+        get { return login; }
+        set { login = value; }
+    }
+
+    public string FirstName
+    {
+        get { return firstName; }
+        set { firstName = value; }
+    }
+
+    public string LastName
+    {
+        get { return lastName; }
+        set { lastName = value; }
+    }
+
+    public int Age
+    {
+        get { return age; }
+        set { age = value; }
+    }
+
+    public DateTime RegistrationDate
+    {
+        get { return registrationDate; }
+    }
 
     public User(string login, string firstName, string lastName, int age)
     {
-        Login = login;
-        FirstName = firstName;
-        LastName = lastName;
+        this.login = login;
+        this.firstName = firstName;
+        this.lastName = lastName;
         Age = age;
-        RegistrationDate = DateTime.Now;
+        registrationDate = DateTime.Now;
     }
 
     public void DisplayInfo()

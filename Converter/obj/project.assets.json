@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Uni\\Lectures\\Lecture02\\Converter\\2. Converter.csproj",
-      "projectName": "2. Converter",
-      "projectPath": "D:\\Uni\\Lectures\\Lecture02\\Converter\\2. Converter.csproj",
+      "projectUniqueName": "D:\\Uni\\Lectures\\Lecture02\\Converter\\Converter.csproj",
+      "projectName": "Converter",
+      "projectPath": "D:\\Uni\\Lectures\\Lecture02\\Converter\\Converter.csproj",
       "packagesPath": "C:\\Users\\Razya_\\.nuget\\packages\\",
       "outputPath": "D:\\Uni\\Lectures\\Lecture02\\Converter\\obj\\",
       "projectStyle": "PackageReference",

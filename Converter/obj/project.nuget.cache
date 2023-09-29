@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ueWqdBzbgC8b8Y526/3VyfD7GgxJ/WUBLOPD/h016/aJ6uYl0TdNS9NEQ5KGkNxN7s9cWA+yFdHo4b3k3YnzSg==",
+  "dgSpecHash": "wUkAPQz0MsIu9AYacq7XK0sHBplZnTqOwH0XM19fovJ2HfG5GV3Z7VWuIxy52i16mwN3KmSkwIyNzLeo7GMqUw==",
   "success": true,
-  "projectFilePath": "D:\\Uni\\Lectures\\Lecture02\\Converter\\2. Converter.csproj",
+  "projectFilePath": "D:\\Uni\\Lectures\\Lecture02\\Converter\\Converter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

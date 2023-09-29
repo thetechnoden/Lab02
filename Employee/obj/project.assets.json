@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Uni\\Lectures\\Lecture02\\Employee\\3. Employee.csproj",
-      "projectName": "3. Employee",
-      "projectPath": "D:\\Uni\\Lectures\\Lecture02\\Employee\\3. Employee.csproj",
+      "projectUniqueName": "D:\\Uni\\Lectures\\Lecture02\\Employee\\Employee.csproj",
+      "projectName": "Employee",
+      "projectPath": "D:\\Uni\\Lectures\\Lecture02\\Employee\\Employee.csproj",
       "packagesPath": "C:\\Users\\Razya_\\.nuget\\packages\\",
       "outputPath": "D:\\Uni\\Lectures\\Lecture02\\Employee\\obj\\",
       "projectStyle": "PackageReference",
