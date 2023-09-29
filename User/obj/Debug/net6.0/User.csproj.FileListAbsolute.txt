@@ -1,0 +1,14 @@
+D:\Uni\Lectures\Lecture02\User\bin\Debug\net6.0\User.exe
+D:\Uni\Lectures\Lecture02\User\bin\Debug\net6.0\User.deps.json
+D:\Uni\Lectures\Lecture02\User\bin\Debug\net6.0\User.runtimeconfig.json
+D:\Uni\Lectures\Lecture02\User\bin\Debug\net6.0\User.dll
+D:\Uni\Lectures\Lecture02\User\bin\Debug\net6.0\User.pdb
+D:\Uni\Lectures\Lecture02\User\obj\Debug\net6.0\User.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Lectures\Lecture02\User\obj\Debug\net6.0\User.AssemblyInfoInputs.cache
+D:\Uni\Lectures\Lecture02\User\obj\Debug\net6.0\User.AssemblyInfo.cs
+D:\Uni\Lectures\Lecture02\User\obj\Debug\net6.0\User.csproj.CoreCompileInputs.cache
+D:\Uni\Lectures\Lecture02\User\obj\Debug\net6.0\User.dll
+D:\Uni\Lectures\Lecture02\User\obj\Debug\net6.0\refint\User.dll
+D:\Uni\Lectures\Lecture02\User\obj\Debug\net6.0\User.pdb
+D:\Uni\Lectures\Lecture02\User\obj\Debug\net6.0\User.genruntimeconfig.cache
+D:\Uni\Lectures\Lecture02\User\obj\Debug\net6.0\ref\User.dll
