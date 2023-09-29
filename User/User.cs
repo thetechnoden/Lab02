@@ -46,10 +46,10 @@
 
     public void DisplayInfo()
     {
-        Console.WriteLine($"Login: {Login}");
-        Console.WriteLine($"Name: {FirstName}");
-        Console.WriteLine($"Surname: {LastName}");
-        Console.WriteLine($"Age: {Age}");
-        Console.WriteLine($"Registration date: {RegistrationDate}");
+        Console.WriteLine($"Login: {login}");
+        Console.WriteLine($"Name: {firstName}");
+        Console.WriteLine($"Surname: {lastName}");
+        Console.WriteLine($"Age: {age}");
+        Console.WriteLine($"Registration date: {registrationDate}");
     }
 }

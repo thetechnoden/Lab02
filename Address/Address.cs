@@ -56,11 +56,11 @@
     public void Display()
     {
         Console.WriteLine("Post address:");
-        Console.WriteLine($"Index - {Index};");
-        Console.WriteLine($"Country - {Country};");
-        Console.WriteLine($"City - {City};");
-        Console.WriteLine($"Street - {Street};");
-        Console.WriteLine($"House - {House};");
-        Console.WriteLine($"Apartment - {Apartment};");
+        Console.WriteLine($"Index - {index};");
+        Console.WriteLine($"Country - {country};");
+        Console.WriteLine($"City - {city};");
+        Console.WriteLine($"Street - {street};");
+        Console.WriteLine($"House - {house};");
+        Console.WriteLine($"Apartment - {apartment};");
     }
 }
