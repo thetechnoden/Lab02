@@ -1,0 +1,14 @@
+D:\Uni\Lectures\Lecture02\Converter\bin\Debug\net6.0\Converter.exe
+D:\Uni\Lectures\Lecture02\Converter\bin\Debug\net6.0\Converter.deps.json
+D:\Uni\Lectures\Lecture02\Converter\bin\Debug\net6.0\Converter.runtimeconfig.json
+D:\Uni\Lectures\Lecture02\Converter\bin\Debug\net6.0\Converter.dll
+D:\Uni\Lectures\Lecture02\Converter\bin\Debug\net6.0\Converter.pdb
+D:\Uni\Lectures\Lecture02\Converter\obj\Debug\net6.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Lectures\Lecture02\Converter\obj\Debug\net6.0\Converter.AssemblyInfoInputs.cache
+D:\Uni\Lectures\Lecture02\Converter\obj\Debug\net6.0\Converter.AssemblyInfo.cs
+D:\Uni\Lectures\Lecture02\Converter\obj\Debug\net6.0\Converter.csproj.CoreCompileInputs.cache
+D:\Uni\Lectures\Lecture02\Converter\obj\Debug\net6.0\Converter.dll
+D:\Uni\Lectures\Lecture02\Converter\obj\Debug\net6.0\refint\Converter.dll
+D:\Uni\Lectures\Lecture02\Converter\obj\Debug\net6.0\Converter.pdb
+D:\Uni\Lectures\Lecture02\Converter\obj\Debug\net6.0\Converter.genruntimeconfig.cache
+D:\Uni\Lectures\Lecture02\Converter\obj\Debug\net6.0\ref\Converter.dll

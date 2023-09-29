@@ -55,12 +55,12 @@
 
     public void Display()
     {
-        Console.WriteLine("Поштова адреса:");
-        Console.WriteLine($"Індекс: {Index}");
-        Console.WriteLine($"Країна: {Country}");
-        Console.WriteLine($"Місто: {City}");
-        Console.WriteLine($"Вулиця: {Street}");
-        Console.WriteLine($"Будинок: {House}");
-        Console.WriteLine($"Квартира: {Apartment}");
+        Console.WriteLine("Post address:");
+        Console.WriteLine($"Index: {Index}");
+        Console.WriteLine($"Country: {Country}");
+        Console.WriteLine($"City: {City}");
+        Console.WriteLine($"Street: {Street}");
+        Console.WriteLine($"House: {House}");
+        Console.WriteLine($"Apartment: {Apartment}");
     }
 }

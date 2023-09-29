@@ -2,10 +2,10 @@
 {
     static void Main(string[] args)
     {
-        Employee employee = new Employee("Селик", "Артем");
+        Employee employee = new Employee("Selyk", "Artem");
         employee.DisplayInfo();
         double salary = employee.CalculateSalary(Position.Manager, 8);
-        Console.WriteLine($"Зарплата: {salary} грн");
+        Console.WriteLine($"Salary: {salary} uah");
 
         Console.ReadLine();
     }

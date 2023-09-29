@@ -47,7 +47,7 @@ class Employee
 
     public void DisplayInfo()
     {
-        Console.WriteLine($"Прізвище: {lastName}");
-        Console.WriteLine($"Ім'я: {firstName}");
+        Console.WriteLine($"Name: {lastName}");
+        Console.WriteLine($"Surname: {firstName}");
     }
 }

@@ -1,0 +1,14 @@
+D:\Uni\Lectures\Lecture02\Address\bin\Debug\net6.0\Address.exe
+D:\Uni\Lectures\Lecture02\Address\bin\Debug\net6.0\Address.deps.json
+D:\Uni\Lectures\Lecture02\Address\bin\Debug\net6.0\Address.runtimeconfig.json
+D:\Uni\Lectures\Lecture02\Address\bin\Debug\net6.0\Address.dll
+D:\Uni\Lectures\Lecture02\Address\bin\Debug\net6.0\Address.pdb
+D:\Uni\Lectures\Lecture02\Address\obj\Debug\net6.0\Address.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Lectures\Lecture02\Address\obj\Debug\net6.0\Address.AssemblyInfoInputs.cache
+D:\Uni\Lectures\Lecture02\Address\obj\Debug\net6.0\Address.AssemblyInfo.cs
+D:\Uni\Lectures\Lecture02\Address\obj\Debug\net6.0\Address.csproj.CoreCompileInputs.cache
+D:\Uni\Lectures\Lecture02\Address\obj\Debug\net6.0\Address.dll
+D:\Uni\Lectures\Lecture02\Address\obj\Debug\net6.0\refint\Address.dll
+D:\Uni\Lectures\Lecture02\Address\obj\Debug\net6.0\Address.pdb
+D:\Uni\Lectures\Lecture02\Address\obj\Debug\net6.0\Address.genruntimeconfig.cache
+D:\Uni\Lectures\Lecture02\Address\obj\Debug\net6.0\ref\Address.dll
